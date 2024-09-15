@@ -1,0 +1,13 @@
+1a. Create a Button with the text "click" inside.
+1b. Create 2 buttons, 1 with your name and 1 with your favorite food.
+1c. Create a paragraph with the text "Hello, World!" inside.
+1d. Create a paragraph Below the previous paragraph and Write something you did Today.
+--------------------------------------------------------------------------------------------------------------------
+1a. یک دکمه بسازید که داخل آن کلمه 
+"click"
+باشد
+1b. دو دکمه بسازید که در داخل یکی از آنها اسم خودتون و در در داخل دیگری غذای مورد علاقه شما باشد 
+1c. یک پاراگراف بسازید که داخل آن جمله
+"Hello, World!"
+باشد
+1d. یک پاراگراف در زیر پاراگراف قبلی بسازید که در آن یک کاری که امروز انجام داده اید نوشته شده باشد 
