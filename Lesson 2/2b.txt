@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <a href="https://google.com" class="Link" target="_blank">Back to google</a>
+        <p class="Productname">Nike Black Running Shoes</p>
+        <p class="productprice">39$ - in Stock.</p>
+        <p class="delivery">Free delivery tomorrow.</p>
+        <button class="add">Add to cart</button>
+        <button class="Buy">Buy now</button>
+    </body>
+    <style>
+        .Link {
+            color:rgb(0, 118, 133) ;
+        }
+        .Productname {
+            color: black;
+            font-weight: bold;
+            font-size: 36px;
+        }
+        .productprice {
+            color: rgb(0, 118, 0);
+            font-weight: bold;
+        }
+        .delivery {
+
+        }
+        .add {
+            background-color: rgb(255, 216, 20);
+            color: black;
+            height: 36px;
+            border: none;
+            width: 100px;
+            border-radius: 50px;
+            margin-right: 4px;
+        }
+        .Buy {
+            background-color: rgb(255, 164, 28);
+            border: none;
+            height: 36px;
+            width: 100px;
+            border-radius: 50px;
+        }
+    </style>
+</html>
